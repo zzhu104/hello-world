@@ -1,2 +1,3 @@
 # hello-world
-I'm a student of ASU, I'm trying to learn how to use github.
+My name is Zihao Zhu.
+I'm a student of ASU, I'm taking CSE 360.
